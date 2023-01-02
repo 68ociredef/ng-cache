@@ -13,7 +13,7 @@ npm install ng-cache
 ## Usage
 
 ```ts
-import {ngCache } from 'ng-cache';
+import {ngCache} from 'ng-cache';
 ```
 
 ```ts
