@@ -73,6 +73,6 @@ public method() {
 
 ## StackBlitz
 
-[Link] (https://stackblitz.com/edit/angular-ivy-mdzdrt?file=src%2Fapp%2Fapp.component.ts)
+[Link](https://stackblitz.com/edit/angular-ivy-mdzdrt?file=src%2Fapp%2Fapp.component.ts)
 
 Please give to repo a **star** :star:.
