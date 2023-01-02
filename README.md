@@ -1,6 +1,6 @@
 # ng-cache
 
-A cache system for Angular application.
+A cache system for Angular applications.
 
 ## Getting started
 
