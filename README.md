@@ -31,7 +31,7 @@ public getUsers() {
 }
 
 //Dynamic composit key.
-@ngCache('user{}') //key = user1 id id=1;
+@ngCache('user{}') //key = user1 if id=1;
 public getUserById(id: number) {
     return this.http.get<User>('user/'+ id)
 }
