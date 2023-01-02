@@ -41,9 +41,9 @@ public getUserById(id: number) {
 public method() {
     console.log("Call method")
     const length = 50000000;
-    const item = 0;
+    let item = 0;
     for(let index=0; index<length; index++) {
-       item++;
+       item = item +1;
     }
     return item;
 }
@@ -70,5 +70,9 @@ public method() {
    
    ......
 ```
+
+## StackBlitz
+
+[Link] (https://stackblitz.com/edit/angular-ivy-mdzdrt?file=src%2Fapp%2Fapp.component.ts)
 
 Please give to repo a **star** :star:.
