@@ -1,5 +1,7 @@
 # ng-cache
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 A cache system for Angular applications.
 
 ## Getting started
